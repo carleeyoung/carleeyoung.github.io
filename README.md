@@ -1,12 +1,22 @@
-## Welcome to GitHub Pages
+![ProfilePic](profilepic.png)
 
-You can use the [editor on GitHub](https://github.com/carleeyoung/carleeyoung.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## My name is Carlee Young.  
+### BioSystems Engineer and Data Analyst
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	I am a BioSystems Engineer with ten years experience in Bacterial and Mammalian Cell Culture Manufacturing Process Support.  As an engineer, I loved working with people to solve problems, improve process performance, and most of all to contribute to a company dedicated to improving the health of patients.  After resigning my position as an engineer to provide full time care to my young children, I pursued education in Data Analytics because I love analyzing data and want to pursue a career in this field.  My training included use of a variety of programming languages and math libraries to conduct data collection, cleaning, statistical analysis, machine learning techniques, and visualization including web development.  Please check out some of my projects below.
 
-### Markdown
+### Health Predictions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[HealthPredictions](https://carleeyoung.github.io/Health-Prediction/templates/index.html)
+
+The Health Predictions project analyzes datasets for Coronary Artery Disease and Kidney failure to make predictions about survival and diagnosis.  This was a collaborative effort between myself and teammates Dylan Obermueller, Trevor Guleserian, and Jerod Rhodes.  My contributions to the project were to the kidney dataset analysis used to predict incidents of Coronary Artery Disease in Kidney Failure patients.  The kidney dataset did not provide adequate data for accurately predicting Coronary Artery Disease.  Missing rows of data reduced the number of positive cases of Coronary Artery Disease to 15, giving limited information for the models to reliably predict outcomes.  Though Coronary Artery Disease and Kidney Disease may go hand-in-hand, the data used to predict one disease is not necessarily indicative of the other.
+
+![HealthPredictionsImg](HealthPredictionsImg.png)
+
+
+### Covid Vs Crime in Kansas City, Missouri
+
+[CovidCrimeKC]
 
 ```markdown
 Syntax highlighted code block
