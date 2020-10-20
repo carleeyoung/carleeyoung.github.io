@@ -3,7 +3,7 @@
 ## My name is Carlee Young.  
 ### BioSystems Engineer and Data Analyst
 
-	I am a BioSystems Engineer with ten years experience in Bacterial and Mammalian Cell Culture Manufacturing Process Support.  As an engineer, I loved working with people to solve problems, improve process performance, and most of all to contribute to a company dedicated to improving the health of patients.  After resigning my position as an engineer to provide full time care to my young children, I pursued education in Data Analytics because I love analyzing data and want to pursue a career in this field.  My training included use of a variety of programming languages and math libraries to conduct data collection, cleaning, statistical analysis, machine learning techniques, and visualization including web development.  Please check out some of my projects below.
+I am a BioSystems Engineer with ten years experience in Bacterial and Mammalian Cell Culture Manufacturing Process Support.  As an engineer, I loved working with people to solve problems, improve process performance, and most of all to contribute to a company dedicated to improving the health of patients.  After resigning my position as an engineer to provide full time care to my young children, I pursued education in Data Analytics because I love analyzing data and want to pursue a career in this field.  My training included use of a variety of programming languages and math libraries to conduct data collection, cleaning, statistical analysis, machine learning techniques, and visualization including web development.  Please check out some of my projects below.
 
 ### Health Predictions
 
