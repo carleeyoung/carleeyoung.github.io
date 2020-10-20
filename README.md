@@ -55,7 +55,7 @@ correlation for each earthquake.
 
 ![](2020-08-19-16-02-39.png)
 
-### python-api-challenge
+### Weather vs Latitude Analysis with API calls and Python
 
 [Weather Latitude Website](https://carleeyoung.github.io/Web-Design-Challenge/Data.html)
 
@@ -68,7 +68,7 @@ Weather Analysis and Observations:
 * Southern hemisphere temperatures are directly proportional to latitude and norhtern hemisphere temperatures are inversely proportional to latitude. As latitude increases, temperature increases if you are in the southern hemisphere. As latitude decreases, temperature increases if you are in the northern hemisphere.
 * Peak temperatures occur at 20 degrees north of the equator. Looking at seasonal data would be interesting to investgate the impact of the tilting of the Earth on its axis with respect to the latitude of peak temperatures in different seasons.
 
-![Temperature Vs Latitude](output_data/MaxTemperature_vs_Lat.png)  ![Temp V Lat](output_data/Lat_vs_Temp.png)
+![Temperature Vs Latitude](MaxTemperature_vs_Lat.png)  ![Temp V Lat](Lat_vs_Temp.png)
 
 
 ### UFO Sightings
