@@ -12,34 +12,10 @@ The Health Predictions project analyzes datasets for Coronary Artery Disease and
 ![HealthPredictionsImg](HealthPredictionsImg.PNG)
 
 
-### Covid Vs Crime in Kansas City, Missouri
+### Biodiversity-challenge
 
-[CovidCrimeKC]
+[BiodiversityWebsite](https://carleeyoung.github.io/biodiversity-challenge/)
 
-```markdown
-Syntax highlighted code block
+In this challenge, results from a belly button microbial characterization study were charted using Plot.ly, JavaScript, and html code to visualize data for each indivual in the study. The first visualization is a horizontal bar chart displaying the species identified by the operational taxonomic units (OTU_ID), and the number of colony forming units found of each species. The guage chart displays the belly button scrubbing frequency reported by the indivual. The bubble chart represents the magnitude of growth for each microbial species reflected by the size of each bubble.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carleeyoung/carleeyoung.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![BiodiversityImg](2020-08-06-17-03-05.png)
