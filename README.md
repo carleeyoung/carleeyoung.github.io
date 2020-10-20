@@ -1,4 +1,4 @@
-![Introduction](intro.PNG)
+![Introduction](intro.png)
 
 
 # My Projects
