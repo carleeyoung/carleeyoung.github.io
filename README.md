@@ -57,7 +57,7 @@ correlation for each earthquake.
 
 ### Weather vs Latitude Analysis with API calls and Python
 
-[Weather Latitude Website](https://carleeyoung.github.io/Web-Design-Challenge/Data.html)
+[Weather Latitude Website](https://carleeyoung.github.io/Web-Design-Challenge/index.html)
 
 Weather data was collected from more than 500 cities generated from randomly selected latitude and longitude coordinates.  Relationships between latitude and temperature, humidity, cloudiness, and wind speed were analyzed. From these results, the list was restricted by pre-determined "ideal" weather conitions.  From the reduced data set of cities with ideal weather conditions, the nearest hotels were found and mapped.
 
