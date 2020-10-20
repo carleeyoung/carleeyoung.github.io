@@ -1,4 +1,4 @@
-![ProfilePic](profilepic.png)
+![ProfilePic](profilepic.jpeg)
 
 ## My name is Carlee Young.  
 ### BioSystems Engineer and Data Analyst
@@ -11,7 +11,7 @@ I am a BioSystems Engineer with ten years experience in Bacterial and Mammalian 
 
 The Health Predictions project analyzes datasets for Coronary Artery Disease and Kidney failure to make predictions about survival and diagnosis.  This was a collaborative effort between myself and teammates Dylan Obermueller, Trevor Guleserian, and Jerod Rhodes.  My contributions to the project were to the kidney dataset analysis used to predict incidents of Coronary Artery Disease in Kidney Failure patients.  The kidney dataset did not provide adequate data for accurately predicting Coronary Artery Disease.  Missing rows of data reduced the number of positive cases of Coronary Artery Disease to 15, giving limited information for the models to reliably predict outcomes.  Though Coronary Artery Disease and Kidney Disease may go hand-in-hand, the data used to predict one disease is not necessarily indicative of the other.
 
-![HealthPredictionsImg](HealthPredictionsImg.png)
+![HealthPredictionsImg](HealthPredictionsImg.PNG)
 
 
 ### Covid Vs Crime in Kansas City, Missouri
