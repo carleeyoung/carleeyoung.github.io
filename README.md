@@ -1,4 +1,4 @@
-![ProfilePic](profilepic.jpeg)
+![ProfilePic](profilepic.jpg)
 
 ## My name is Carlee Young.  
 ### BioSystems Engineer and Data Analyst
