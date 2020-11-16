@@ -20,7 +20,7 @@ In this challenge, results from a belly button microbial characterization study 
 
 ![BiodiversityImg](2020-08-06-17-03-05.png)
 
-## Census Demographics
+### Census Demographics
 
 [Census Demographics Webpage](https://carleeyoung.github.io/D3-challenge/D3_data_journalism/)
 
@@ -29,6 +29,14 @@ create a dynamic chart to compare select parameters.  A tooltip was added to sho
 information on each datapoint as you hover over the point.
 
 ![](2020-08-14-17-03-34.png)
+
+### Citi Bike Visualizations in Tabluea
+
+[Citi Bike Ridership on Tabluea Public](https://public.tableau.com/profile/carlee1533#!/vizhome/CitiBike_Analysis_15998401097300/Story1?publish=yes)
+
+Citi Bike data was downloaded from their website (https://www.citibikenyc.com/system-data) for ridership in 2019 through the end of July 2020 and uploaded into Tabluea to create data visualizations.  The visualizations were used to create a storyboard including dashboards of the data visualizations.  Overall, the data reflects the drop in ridership at the beginning of 2020 due to quarantine with the COVID-19 pandemic.  Ridership did pick up by the end of the second quarter but still slightly below normal levels as compared to the 2019 ridership data.  Ridership is most popular in the eastern region of the Jersey City area, while the western Jersey City and New York City locations were less popular.  Subscriptions were most popular with the thirty-something crowd.  Looking at a breakdown of ridership by gender, the "other" category is growing in 2020 over the 2019 numbers.
+
+![](Tabluea_CitiBike.png)
 
 ### Visuallizing Data with Leaflet
 [US Earthquake Map](https://carleeyoung.github.io/Leaflet-Challenge/leaflet-Step-1/)
