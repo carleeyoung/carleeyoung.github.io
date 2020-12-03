@@ -19,7 +19,7 @@ The Health Predictions project analyzes datasets for Coronary Artery Disease and
 
 The Covid Vs Crime Correlation dashboard shares data provided by OPENDATA KC and the Census Bureau. The data extracted from these sources was transformed and loaded into three relational SQLite databases using Python, Pandas, Jupyter Notebooks, and SQL Alchemy.  Interactive visualizations of these databases were created using a Python Flask App in conjunction with HTML, CSS, JavaScript, Leaflet, Plotly, and Plotly React.  Each visualization features interactive information showing stats on COVID-19 cases and crime broken down by zipcode.  
 
-![COVID_Vs_CrimeImg]([COVID_Vs_Crime.png)
+![COVID_Vs_CrimeImg](COVID_Vs_Crime.png)
 
 ### Biodiversity-challenge
 
