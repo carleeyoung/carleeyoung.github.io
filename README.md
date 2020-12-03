@@ -1,3 +1,5 @@
+[Click here to visit my website.](https://carleeyoung.github.io/)
+
 ![Introduction](intro.png)
 
 
@@ -37,11 +39,11 @@ information on each datapoint as you hover over the point.
 
 ![](2020-08-14-17-03-34.png)
 
-### Citi Bike Visualizations in Tabluea
+### Citi Bike Visualizations in Tableau
 
-[Citi Bike Ridership on Tabluea Public](https://public.tableau.com/profile/carlee1533#!/vizhome/CitiBike_Analysis_15998401097300/Story1?publish=yes)
+[Citi Bike Ridership on Tableau Public](https://public.tableau.com/profile/carlee1533#!/vizhome/CitiBike_Analysis_15998401097300/Story1?publish=yes)
 
-Citi Bike data was downloaded from their website (https://www.citibikenyc.com/system-data) for ridership in 2019 through the end of July 2020 and uploaded into Tabluea to create data visualizations.  The visualizations were used to create a storyboard including dashboards of the data visualizations.  Overall, the data reflects the drop in ridership at the beginning of 2020 due to quarantine with the COVID-19 pandemic.  Ridership did pick up by the end of the second quarter but still slightly below normal levels as compared to the 2019 ridership data.  Ridership is most popular in the eastern region of the Jersey City area, while the western Jersey City and New York City locations were less popular.  Subscriptions were most popular with the thirty-something crowd.  Looking at a breakdown of ridership by gender, the "other" category is growing in 2020 over the 2019 numbers.
+Citi Bike data was downloaded from their website (https://www.citibikenyc.com/system-data) for ridership in 2019 through the end of August 2020 and uploaded into Tableau to create data visualizations.  The visualizations were used to create a storyboard including dashboards of the data visualizations.  Overall, the data reflects the drop in ridership at the beginning of 2020 due to quarantine with the COVID-19 pandemic.  Ridership did pick up by the end of the second quarter but was still below normal levels as compared to the 2019 ridership data.  Ridership is most popular in the eastern region of the Jersey City area, while the western Jersey City and New York City locations were less popular.  Subscriptions were most popular with the thirty-something crowd.  Looking at a breakdown of ridership by gender, the "other" category is growing in 2020 over the 2019 numbers while male ridership continues to represent the majority.
 
 ![](Tabluea_CitiBike.png)
 
