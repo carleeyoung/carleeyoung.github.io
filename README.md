@@ -1,6 +1,6 @@
 [Click here to visit my website.](https://carleeyoung.github.io/)
 
-![Introduction](intro2021.JPG)
+![Introduction](intro2021.jpg)
 
 
 # My Projects
