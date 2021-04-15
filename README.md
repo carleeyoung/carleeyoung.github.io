@@ -36,7 +36,7 @@ Weather Analysis and Observations:
 * Southern hemisphere temperatures are directly proportional to latitude and norhtern hemisphere temperatures are inversely proportional to latitude. As latitude increases, temperature increases if you are in the southern hemisphere. As latitude decreases, temperature increases if you are in the northern hemisphere.
 * Peak temperatures occur at approximately 20 degrees north of the equator. Looking at seasonal data would be interesting to investgate the impact of the tilting of the Earth on its axis (23.5 degrees) with respect to the latitude of peak temperatures in different seasons.
 
-![Temperature Vs Latitude](Max Temperature_vs_Lat_north.png)  ![Temperature Vs Latitude](Max Temperature_vs_Lat_south.png)  ![Temp V Lat](Lat_vs_Temp.png)
+![Temperature Vs Latitude](MaxTemperature_vs_Lat_north.png)  ![Temperature Vs Latitude](MaxTemperature_vs_Lat_south.png)  ![Temp V Lat](Lat_vs_Temp.png)
 
 
 ### Biodiversity-challenge
