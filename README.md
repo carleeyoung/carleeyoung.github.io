@@ -21,6 +21,24 @@ The Covid Vs Crime Correlation dashboard shares data provided by OPENDATA KC and
 
 ![COVID_Vs_CrimeImg](COVID_Vs_Crime.png)
 
+### Weather vs Latitude Analysis with API calls and Python
+
+[Weather Vs Latitude Correlation Analysis](https://carleeyoung.github.io/Web-Challenge/)
+
+Have you ever wondered about what factors cause the weather to change around the world?
+As you travel north or south of the equator, you will notice changes in climate. what weather factors change as you get further from or closer to the equator?
+Weather data was collected from more than 500 cities generated from randomly selected latitude and longitude coordinates. Relationships between latitude and temperature, humidity, cloudiness, and wind speed were analyzed. From these results, the list was restricted by pre-determined "ideal" weather conitions. From the reduced data set of cities with ideal weather conditions, the nearest hotels were found and mapped.
+
+Weather Analysis and Observations:
+
+* With a moderate correlation between temperature and latitude, you are generally more likely to experience warmer temperatures near the equator.
+* Humidity, cloudiness, and wind speeds have no relationship to latitude with r-squared values at or very near zero.
+* Southern hemisphere temperatures are directly proportional to latitude and norhtern hemisphere temperatures are inversely proportional to latitude. As latitude increases, temperature increases if you are in the southern hemisphere. As latitude decreases, temperature increases if you are in the northern hemisphere.
+* Peak temperatures occur at approximately 20 degrees north of the equator. Looking at seasonal data would be interesting to investgate the impact of the tilting of the Earth on its axis (23.5 degrees) with respect to the latitude of peak temperatures in different seasons.
+
+![Temperature Vs Latitude](MaxTemperature_vs_Lat.png)  ![Temp V Lat](Lat_vs_Temp.png)
+
+
 ### Biodiversity-challenge
 
 [BiodiversityWebsite](https://carleeyoung.github.io/biodiversity-challenge/)
@@ -71,24 +89,6 @@ boundaries can also be toggled on and off using the same control key.  The legen
 correlation for each earthquake.  
 
 ![](2020-08-19-16-02-39.png)
-
-### Weather vs Latitude Analysis with API calls and Python
-
-[Weather Vs Latitude Correlation Analysis](https://carleeyoung.github.io/Web-Challenge/)
-
-Have you ever wondered about what factors cause the weather to change around the world?
-As you travel north or south of the equator, you will notice changes in climate. what weather factors change as you get further from or closer to the equator?
-Weather data was collected from more than 500 cities generated from randomly selected latitude and longitude coordinates. Relationships between latitude and temperature, humidity, cloudiness, and wind speed were analyzed. From these results, the list was restricted by pre-determined "ideal" weather conitions. From the reduced data set of cities with ideal weather conditions, the nearest hotels were found and mapped.
-
-Weather Analysis and Observations:
-
-* With a moderate correlation between temperature and latitude, you are generally more likely to experience warmer temperatures near the equator.
-* Humidity, cloudiness, and wind speeds have no relationship to latitude with r-squared values at or very near zero.
-* Southern hemisphere temperatures are directly proportional to latitude and norhtern hemisphere temperatures are inversely proportional to latitude. As latitude increases, temperature increases if you are in the southern hemisphere. As latitude decreases, temperature increases if you are in the northern hemisphere.
-* Peak temperatures occur at 20 degrees north of the equator. Looking at seasonal data would be interesting to investgate the impact of the tilting of the Earth on its axis with respect to the latitude of peak temperatures in different seasons.
-
-![Temperature Vs Latitude](MaxTemperature_vs_Lat.png)  ![Temp V Lat](Lat_vs_Temp.png)
-
 
 ### UFO Sightings
 
